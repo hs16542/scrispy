@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+eval "adb install -r -d -t $1"
